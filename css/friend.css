@@ -1,0 +1,15 @@
+.block-line{
+    display:inline-block;
+}
+
+.inline{
+    display:inline;
+}
+.right{
+    float: right;
+}
+
+#little-title{
+    font-size:2em;
+    font-weight:700;
+}

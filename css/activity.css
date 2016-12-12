@@ -1,0 +1,27 @@
+.divider-line {
+    border-bottom: 1px #e2e2e2 solid;
+    height: 1px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.little-title{
+    font-size:2em;
+    font-weight:700;
+}
+
+
+
+.autoWidth{
+    width:auto;
+}
+
+.width80{
+    width:80%;
+}
+
+.width10{
+    width:10%;
+}
+
+

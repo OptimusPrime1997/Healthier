@@ -1,0 +1,21 @@
+.inputHead{
+    font-size: 0.3em;
+}
+
+.interval{
+    padding:0px 10px 0px 0px;
+}
+
+#save_btn{
+    horiz-align: center;
+    vertical-align: center;
+}
+
+.toRight{
+    float:right;
+}
+
+.min_img{
+    width:15px;
+    height: 14px;
+}
